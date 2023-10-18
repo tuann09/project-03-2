@@ -1,0 +1,21 @@
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-size: 1.6rem;
+    font-family: "Poppins", sans-serif;
+}
+/*-------------Common-------------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Public Sans", sans-serif;
+}
