@@ -198,13 +198,13 @@ a {
 }
 .hero__item:first-of-type::before {
     position: absolute;
-    content: url(/assets/img/hero-img-decor.svg);
+    content: url(../img/hero-img-decor.svg);
     left: -220px;
     top: -20px;
 }
 .hero__item:first-of-type::after {
     position: absolute;
-    content: url(/assets/img/hero-img-decor2.svg);
+    content: url(../img/hero-img-decor2.svg);
     z-index: 1;
     left: -175px;
     top: -21px;
@@ -234,13 +234,13 @@ a {
 }
 .hero__item:last-of-type::before {
     position: absolute;
-    content: url(/assets/img/hero-img-decor3.svg);
+    content: url(../img/hero-img-decor3.svg);
     left: -423px;
     bottom: -139px;
 }
 .hero__item:last-of-type::after {
     position: absolute;
-    content: url(/assets/img/hero-img-decor.svg);
+    content: url(../img/hero-img-decor.svg);
     right: 10px;
     bottom: -118px;
 }
